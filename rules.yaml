@@ -1,0 +1,5 @@
+---
+from:
+  - scratch
+  - "alpine:latest"
+rootUser: false
