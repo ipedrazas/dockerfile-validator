@@ -1,6 +1,6 @@
 FROM scratch
 MAINTAINER Ivan Pedrazas <ipedrazas@gmail.com>
 
-ADD docker-validator /
+ADD dockerfile-validator /
 
-CMD ["/docker-validator"]
+CMD ["/dockerfile-validator"]
